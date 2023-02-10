@@ -66,7 +66,7 @@ edit the file `client/src/config.js` and specify the base URL for your API. Run 
 {
 	network: "rpc-mainnet",
 	token: "matic",
-	account: "0xCC2161DB3200EEF7E37E21542dA2F0179fB9c59A"
+	account: "0x1e5eea228c0197d1c7a169b7f4b133e1f34f8bb5"
 }
 ```
 
